@@ -9,7 +9,7 @@ Ce projet m’a permis de progresser en CSS Grid, responsive design et positionn
 
 Voici un aperçu visuel du projet terminé :  
 ![Aperçu du site - desktop](preview-desktop.jpg)
-![Aperçu du site - mobile](preview-mobile)
+![Aperçu du site - mobile](preview-mobile.jpg)
 
  🚀 Le défi
 
@@ -23,8 +23,8 @@ Voici un aperçu visuel du projet terminé :
 
  🔗 Liens utiles
 
-- 💻 Code source : [À compléter sur GitHub]()
-- 🌍 Site en ligne : [À compléter pour la version hébergée]()
+- 💻 Code source : [Voir sur GitHub](https://github.com/oxford777/Testimonials_grid_section/blob/main/index.html)
+- 🌍 Site en ligne : [Voir le site en direct](https://oxford777.github.io/Testimonials_grid_section/)
 
 
  🛠️ Outils utilisés
